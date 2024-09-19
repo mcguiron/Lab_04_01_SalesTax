@@ -9,8 +9,5 @@ public class Main
         salesTax = purchasePrice * SALES_TAX_RATE;
 
         System.out.println("the sales tax on a purchase of" + purchasePrice + " is " + salesTax + ".");
-
-
-
     }
 }
